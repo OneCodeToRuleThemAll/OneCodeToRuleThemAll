@@ -1,1 +1,1 @@
-<center>I’m currently learning.</center>
+<p align="center">I’m currently learning.</p>
