@@ -1,1 +1,1 @@
-                        I’m currently learning.
+<center>I’m currently learning.</center>
